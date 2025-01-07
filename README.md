@@ -1,2 +1,2 @@
 # Enrique-Mardini
-For Nogizaka46 schedule
+Just For techcamp registration
